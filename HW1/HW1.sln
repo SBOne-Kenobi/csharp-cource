@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinStack", "MinStack\MinStack.csproj", "{CCD7610E-1162-4DE7-AEAB-95B1D275339A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D670E4DD-BAF7-472B-9D79-9ECA84B6AB60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGenerator", "PasswordGenerator\PasswordGenerator.csproj", "{AE1D2235-2D1A-4B96-AD08-B3140FC1D6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD7610E-1162-4DE7-AEAB-95B1D275339A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD7610E-1162-4DE7-AEAB-95B1D275339A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD7610E-1162-4DE7-AEAB-95B1D275339A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD7610E-1162-4DE7-AEAB-95B1D275339A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D670E4DD-BAF7-472B-9D79-9ECA84B6AB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D670E4DD-BAF7-472B-9D79-9ECA84B6AB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D670E4DD-BAF7-472B-9D79-9ECA84B6AB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D670E4DD-BAF7-472B-9D79-9ECA84B6AB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1D2235-2D1A-4B96-AD08-B3140FC1D6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1D2235-2D1A-4B96-AD08-B3140FC1D6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1D2235-2D1A-4B96-AD08-B3140FC1D6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1D2235-2D1A-4B96-AD08-B3140FC1D6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
