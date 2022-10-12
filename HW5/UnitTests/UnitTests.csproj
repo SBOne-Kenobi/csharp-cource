@@ -23,6 +23,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\EventBus\EventBus.csproj" />
+      <ProjectReference Include="..\PseudoStack\PseudoStack.csproj" />
     </ItemGroup>
 
 </Project>
