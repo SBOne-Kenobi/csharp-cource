@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenation", "Concatenation\Concatenation.csproj", "{1DCE4274-D24B-40C6-BB2C-D23D1466E73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCE4274-D24B-40C6-BB2C-D23D1466E73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCE4274-D24B-40C6-BB2C-D23D1466E73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCE4274-D24B-40C6-BB2C-D23D1466E73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCE4274-D24B-40C6-BB2C-D23D1466E73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
