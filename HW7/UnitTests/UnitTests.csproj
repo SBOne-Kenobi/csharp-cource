@@ -23,6 +23,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Concatenation\Concatenation.csproj" />
+      <ProjectReference Include="..\FindingElements\FindingElements.csproj" />
     </ItemGroup>
 
 </Project>

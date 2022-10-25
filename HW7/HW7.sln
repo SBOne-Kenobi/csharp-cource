@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenation", "Concatenat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingElements", "FindingElements\FindingElements.csproj", "{1425C637-351C-4CAE-81CC-C5AD9B786E4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{319B5D76-0A15-4FFE-A55A-3CEFCF4058E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1425C637-351C-4CAE-81CC-C5AD9B786E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1425C637-351C-4CAE-81CC-C5AD9B786E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1425C637-351C-4CAE-81CC-C5AD9B786E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1425C637-351C-4CAE-81CC-C5AD9B786E4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
