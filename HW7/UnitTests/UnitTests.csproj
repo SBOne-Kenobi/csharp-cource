@@ -24,6 +24,7 @@
     <ItemGroup>
       <ProjectReference Include="..\Concatenation\Concatenation.csproj" />
       <ProjectReference Include="..\FindingElements\FindingElements.csproj" />
+      <ProjectReference Include="..\Grouping\Grouping.csproj" />
     </ItemGroup>
 
 </Project>
