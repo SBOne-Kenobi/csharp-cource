@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grouping", "Grouping\Groupi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderForBlind", "RenderForBlind\RenderForBlind.csproj", "{86B4600F-16DE-4599-8CEC-5DF74AF588D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordBlocks", "WordBlocks\WordBlocks.csproj", "{53C7AF43-EC66-45C8-803B-5D04992B45DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{86B4600F-16DE-4599-8CEC-5DF74AF588D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86B4600F-16DE-4599-8CEC-5DF74AF588D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86B4600F-16DE-4599-8CEC-5DF74AF588D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C7AF43-EC66-45C8-803B-5D04992B45DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C7AF43-EC66-45C8-803B-5D04992B45DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C7AF43-EC66-45C8-803B-5D04992B45DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C7AF43-EC66-45C8-803B-5D04992B45DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
