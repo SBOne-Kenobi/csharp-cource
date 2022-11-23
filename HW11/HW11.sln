@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache", "Cache\Cache.csproj", "{B4E23FE2-C5CC-49D1-8F61-3FD107223997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{4E841E6E-D8EA-41B5-96D2-D4193645207B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E23FE2-C5CC-49D1-8F61-3FD107223997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E23FE2-C5CC-49D1-8F61-3FD107223997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E23FE2-C5CC-49D1-8F61-3FD107223997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E23FE2-C5CC-49D1-8F61-3FD107223997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E841E6E-D8EA-41B5-96D2-D4193645207B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E841E6E-D8EA-41B5-96D2-D4193645207B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E841E6E-D8EA-41B5-96D2-D4193645207B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E841E6E-D8EA-41B5-96D2-D4193645207B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
